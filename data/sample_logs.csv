@@ -1,0 +1,17 @@
+timestamp,source_sys,event_id,user_target,actor,action,resource,status,ip_address,ticket_ref
+2025-02-17 03:12:10,Active Directory,4625,usr_dg_office,usr_dg_office,Échec d'ouverture de session,VPN-GW-01,Failure,203.0.113.77,N/A
+2025-02-17 03:12:17,Active Directory,4625,usr_dg_office,usr_dg_office,Échec d'ouverture de session,VPN-GW-01,Failure,203.0.113.77,N/A
+2025-02-17 03:12:24,Active Directory,4625,usr_dg_office,usr_dg_office,Échec d'ouverture de session,VPN-GW-01,Failure,203.0.113.77,N/A
+2025-02-17 03:12:31,Active Directory,4625,usr_dg_office,usr_dg_office,Échec d'ouverture de session,VPN-GW-01,Failure,203.0.113.77,N/A
+2025-02-17 03:12:38,Active Directory,4625,usr_dg_office,usr_dg_office,Échec d'ouverture de session,VPN-GW-01,Failure,203.0.113.77,N/A
+2025-02-17 03:14:02,Active Directory,4624,usr_dg_office,usr_dg_office,Ouverture de session réussie,VPN-GW-01,Success,203.0.113.77,N/A
+2025-02-17 08:14:22,Active Directory,4720,usr_consultant_ext,admin_sys,Création de compte à privilèges,OU=Prestataires,Success,10.20.4.12,N/A
+2025-02-17 08:30:00,Oracle DB Prod,1014,SYSTEM,usr_consultant_ext,ALTER TABLE CLIENT_BALANCE_NFC,CLIENT_BALANCE_NFC,Success,10.20.8.45,CHG-2025-089
+2025-02-17 09:05:11,Active Directory,4738,usr_ex_employee,admin_sys,Réactivation de compte inactif (>90j),OU=Anciens,Success,10.20.4.12,N/A
+2025-02-17 09:40:03,Active Directory,4724,usr_k.nana,helpdesk_01,Réinitialisation de mot de passe,OU=Agences,Success,10.20.3.8,INC-2025-3312
+2025-02-17 10:12:47,Active Directory,4728,usr_dba_02,usr_dba_02,Ajout au groupe DBA_PROD (compte à privilèges),CN=DBA_PROD,Success,10.20.8.51,N/A
+2025-02-17 10:58:30,Oracle DB Prod,1020,SYSTEM,usr_dba_01,UPDATE PARAMETRES_TAUX SET TAUX = 4.5,PARAMETRES_TAUX,Success,10.20.8.40,CHG-2025-091
+2025-02-17 11:20:15,Active Directory,4725,usr_dep_2024,hr_bot,Désactivation de compte (départ),OU=Departs,Success,10.20.2.5,HR-2025-0412
+2025-02-17 13:02:09,Active Directory,4720,usr_stagiaire_07,helpdesk_02,Création de compte standard,OU=Stagiaires,Success,10.20.3.9,REQ-2025-1180
+2025-02-17 14:15:00,Oracle DB Prod,1014,SYSTEM,usr_dba_03,DROP TABLE TMP_EXPORT_CLIENTS,TMP_EXPORT_CLIENTS,Success,10.20.8.52,N/A
+2025-02-17 22:47:31,Active Directory,4728,usr_support_n2,admin_sys,Ajout au groupe Administrateurs locaux,CN=Administrateurs,Success,10.20.4.12,chg-urgent

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 80" width="280" height="80">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1456C8"/>
+      <stop offset="1" stop-color="#12305C"/>
+    </linearGradient>
+  </defs>
+  <path d="M40 6 L70 17 V40 C70 57 56 69 40 75 C24 69 10 57 10 40 V17 Z" fill="url(#g)"/>
+  <path d="M26 46 L40 22 L54 46" fill="none" stroke="#E3A72F" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M30 52 H50" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+  <text x="84" y="44" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="800" fill="#12305C">NFC BANK</text>
+  <text x="85" y="63" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#E3A72F" font-weight="700">We make life easy</text>
+</svg>

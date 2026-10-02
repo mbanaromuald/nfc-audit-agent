@@ -1,0 +1,16 @@
+2025-02-17 03:12:10 source="Active Directory" event_id=4625 user=usr_dg_office target=usr_dg_office action="Échec d'ouverture de session" resource="VPN-GW-01" status=Failure ip=203.0.113.77 ticket=N/A
+2025-02-17 03:12:17 source="Active Directory" event_id=4625 user=usr_dg_office target=usr_dg_office action="Échec d'ouverture de session" resource="VPN-GW-01" status=Failure ip=203.0.113.77 ticket=N/A
+2025-02-17 03:12:24 source="Active Directory" event_id=4625 user=usr_dg_office target=usr_dg_office action="Échec d'ouverture de session" resource="VPN-GW-01" status=Failure ip=203.0.113.77 ticket=N/A
+2025-02-17 03:12:31 source="Active Directory" event_id=4625 user=usr_dg_office target=usr_dg_office action="Échec d'ouverture de session" resource="VPN-GW-01" status=Failure ip=203.0.113.77 ticket=N/A
+2025-02-17 03:12:38 source="Active Directory" event_id=4625 user=usr_dg_office target=usr_dg_office action="Échec d'ouverture de session" resource="VPN-GW-01" status=Failure ip=203.0.113.77 ticket=N/A
+2025-02-17 03:14:02 source="Active Directory" event_id=4624 user=usr_dg_office target=usr_dg_office action="Ouverture de session réussie" resource="VPN-GW-01" status=Success ip=203.0.113.77 ticket=N/A
+2025-02-17 08:14:22 source="Active Directory" event_id=4720 user=admin_sys target=usr_consultant_ext action="Création de compte à privilèges" resource="OU=Prestataires" status=Success ip=10.20.4.12 ticket=N/A
+2025-02-17 08:30:00 source="Oracle DB Prod" event_id=1014 user=usr_consultant_ext target=SYSTEM action="ALTER TABLE CLIENT_BALANCE_NFC" resource="CLIENT_BALANCE_NFC" status=Success ip=10.20.8.45 ticket=CHG-2025-089
+2025-02-17 09:05:11 source="Active Directory" event_id=4738 user=admin_sys target=usr_ex_employee action="Réactivation de compte inactif (>90j)" resource="OU=Anciens" status=Success ip=10.20.4.12 ticket=N/A
+2025-02-17 09:40:03 source="Active Directory" event_id=4724 user=helpdesk_01 target=usr_k.nana action="Réinitialisation de mot de passe" resource="OU=Agences" status=Success ip=10.20.3.8 ticket=INC-2025-3312
+2025-02-17 10:12:47 source="Active Directory" event_id=4728 user=usr_dba_02 target=usr_dba_02 action="Ajout au groupe DBA_PROD (compte à privilèges)" resource="CN=DBA_PROD" status=Success ip=10.20.8.51 ticket=N/A
+2025-02-17 10:58:30 source="Oracle DB Prod" event_id=1020 user=usr_dba_01 target=SYSTEM action="UPDATE PARAMETRES_TAUX SET TAUX = 4.5" resource="PARAMETRES_TAUX" status=Success ip=10.20.8.40 ticket=CHG-2025-091
+2025-02-17 11:20:15 source="Active Directory" event_id=4725 user=hr_bot target=usr_dep_2024 action="Désactivation de compte (départ)" resource="OU=Departs" status=Success ip=10.20.2.5 ticket=HR-2025-0412
+2025-02-17 13:02:09 source="Active Directory" event_id=4720 user=helpdesk_02 target=usr_stagiaire_07 action="Création de compte standard" resource="OU=Stagiaires" status=Success ip=10.20.3.9 ticket=REQ-2025-1180
+2025-02-17 14:15:00 source="Oracle DB Prod" event_id=1014 user=usr_dba_03 target=SYSTEM action="DROP TABLE TMP_EXPORT_CLIENTS" resource="TMP_EXPORT_CLIENTS" status=Success ip=10.20.8.52 ticket=N/A
+2025-02-17 22:47:31 source="Active Directory" event_id=4728 user=admin_sys target=usr_support_n2 action="Ajout au groupe Administrateurs locaux" resource="CN=Administrateurs" status=Success ip=10.20.4.12 ticket=chg-urgent

@@ -1,0 +1,11 @@
+streamlit>=1.40.0
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-groq>=0.2.0
+chromadb>=0.5.0
+sentence-transformers>=3.0.0
+pandas>=2.2.0
+pyngrok>=7.1.0
+python-dotenv>=1.0.1
+pydantic>=2.6.0
+pytest>=8.0.0
