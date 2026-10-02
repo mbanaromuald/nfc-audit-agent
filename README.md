@@ -4,6 +4,9 @@
 
 # NFC-AuditAgent
 
+Vous pouvez tester le projet via ce lien : https://nfc-audit-agent-ejtm5xspd5ddkgkmyl7a58.streamlit.app/
+LE MOT E PASSE EST : admin
+
 **L'agent d'audit continu qui lit les journaux du SI, les confronte à la COBAC, ISO 27001, COBIT 2019 et ITIL v4, et remet au Comité d'Audit des constats prêts à décider.**
 
 ![Statut](https://img.shields.io/badge/statut-prototype%20de%20d%C3%A9monstration-DB3D42)
